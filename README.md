@@ -19,3 +19,46 @@ Binary-to-text conversion
 User input 011000111001
 - Conversion output = 01 10 a b 10 01
 
+Version 1 sequence of 4
+
+Binary to text conversion 
+16 variations of segments of 4
+0000
+0001
+0010
+0011
+0100
+0101
+0110
+0111
+1000
+1001
+1010
+1011
+1100
+1101
+1110
+1111
+
+4 variations of segments of 2 
+00
+01
+10
+11
+
+8 variations of segments of 3
+000
+001
+010
+011
+100
+101
+110
+111
+
+
+2 variations of segments of 1
+1
+0
+
+
