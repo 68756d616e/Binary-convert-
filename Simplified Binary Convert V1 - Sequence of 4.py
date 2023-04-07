@@ -75,6 +75,8 @@ while True:
     # The converted segments joined
     result = " ".join(converted_segments) # With space
     result2 = "".join(converted_segments) # Without space
+
+    # The printed result 
     print(result)
     print(result2)
 
