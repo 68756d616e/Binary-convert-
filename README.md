@@ -61,4 +61,6 @@ Binary to text conversion
 1
 0
 
+Example : 0100000110001100001111100101100101101000011100110111
+Output : g d k f o h l i k j f j
 
