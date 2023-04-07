@@ -22,7 +22,7 @@ User input 011000111001
 Version 1 sequence of 4
 
 Binary to text conversion 
-16 variations of segments of 4
+16 variations of segments of 4 : 
 0000
 0001
 0010
@@ -40,13 +40,13 @@ Binary to text conversion
 1110
 1111
 
-4 variations of segments of 2 
+4 variations of segments of 2 :
 00
 01
 10
 11
 
-8 variations of segments of 3
+8 variations of segments of 3 : 
 000
 001
 010
@@ -57,7 +57,7 @@ Binary to text conversion
 111
 
 
-2 variations of segments of 1
+2 variations of segments of 1 : 
 1
 0
 
