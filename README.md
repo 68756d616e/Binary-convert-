@@ -1,4 +1,4 @@
-# Binary-convert-
+# Binary Conversion
 
 The orignal version 1 converts a binary sequence into segments of 4 
 - Example: 00 11 01 10 000 111 0000 1111 1001 0110 1010 0101 1110 0001 0111 1110 1100 0011 etc 
