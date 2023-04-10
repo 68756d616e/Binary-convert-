@@ -64,3 +64,10 @@ Binary to text conversion
 Example : 0100000110001100001111100101100101101000011100110111
 Output : g d k f o h l i k j f j
 
+-
+8 Bit conversion to text
+- Example : Input 0011000011001111
+- Output 00110000 11001111 - ABEBAF OR ABE BAF
+- Value A = 00 B = 11 E = 0000 f = 1111
+- Rather than having a large binary sequence, the result will be mcuh shorter
+
